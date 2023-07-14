@@ -2,3 +2,5 @@ phone : 7028654391
 
 touchscreen
 scratchless-gorilla glass
+
+add screen lock
